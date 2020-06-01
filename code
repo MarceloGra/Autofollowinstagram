@@ -6,4 +6,4 @@ setInterval(() => {
             seguir.click()       
         }
     })
-}, 7000) // use 8000 or 9000
+}, 8000) // use 8000 or 9000
