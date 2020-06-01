@@ -1,0 +1,9 @@
+setInterval(() => {
+    var full = document.querySelectorAll('.L3NKy')
+    var follow = document.querySelector('.y3zKF')
+    todos.forEach(item => {
+        if (!item.classList.contains('_8A5w5')) {
+            seguir.click()       
+        }
+    })
+}, 7000) // use 8000 or 9000
